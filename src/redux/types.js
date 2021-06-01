@@ -1,0 +1,9 @@
+export const FETCH_POSTS = "FETCH_POSTS";
+export const FETCH_POSTS_FAILED = "FETCH_POSTS_FAILED";
+export const ADD_POST = "ADD_POST";
+export const ADD_POST_FAILED = "ADD_POST_FAILED";
+export const FETCH_POST_COMMENTS = "FETCH_POST_COMMENTS";
+export const SELECT_POST = "SELECT_POST";
+export const FETCH_ADD_COMMENTS = "FETCH_ADD_COMMENTS";
+export const DELETE_POST = "DELETE_POST";
+export const EDIT_POST = "EDIT_POST";
