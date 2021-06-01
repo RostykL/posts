@@ -2,7 +2,7 @@ Create new folder
 > mkdir new_app
 
 Cone this project to your folder
-> git clone "https://github.com/RostykL/posts.git";
+> git clone "https://github.com/RostykL/posts.git"
 
 
 Enter the folder
